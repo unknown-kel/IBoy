@@ -45,21 +45,13 @@
 
 * `git clone https://github.com/noob-hackers/IBoy`
 
-* `cd IBoy`
 
-
-
-
-
-
-
-* `python iBoy.py`
 
 ```
+## USAGE [Termux] :
 
-
-
-
+* `cd IBoy`
+* `python iBoy.py`
 
 ```
 
