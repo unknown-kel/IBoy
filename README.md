@@ -50,8 +50,8 @@
 ```
 ## USAGE [Termux] :
 
-* `cd IBoy`
-* `python iBoy.py`
+ cd IBoy
+ python iBoy.py
 
 ```
 
