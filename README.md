@@ -20,11 +20,8 @@
 ## FEATURES :
 
 * [+] Real live location !
-
-
-
+* [+] Location on map 
 * [+] Ip lookup
-
 * [+] Easy for Beginners !
 
 ## INSTALLATION [Termux] :
