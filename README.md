@@ -43,14 +43,14 @@
 
 * `pip install requests`
 
-* `git clone https://github.com/noob-hackers/IBoy`
+* `git clone https://github.com/noob-hackers/iBoy`
 
 
 
 ```
 ## USAGE [Termux] :
 
- cd IBoy
+ cd iBoy
  python iBoy.py
 
 ```
